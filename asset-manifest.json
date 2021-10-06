@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/programmingWithMosh/static/css/main.2d8af94a.chunk.css",
+    "main.js": "/programmingWithMosh/static/js/main.4f53b73e.chunk.js",
+    "main.js.map": "/programmingWithMosh/static/js/main.4f53b73e.chunk.js.map",
+    "runtime-main.js": "/programmingWithMosh/static/js/runtime-main.e4855b9a.js",
+    "runtime-main.js.map": "/programmingWithMosh/static/js/runtime-main.e4855b9a.js.map",
+    "static/js/2.5a343eb9.chunk.js": "/programmingWithMosh/static/js/2.5a343eb9.chunk.js",
+    "static/js/2.5a343eb9.chunk.js.map": "/programmingWithMosh/static/js/2.5a343eb9.chunk.js.map",
+    "index.html": "/programmingWithMosh/index.html",
+    "static/css/main.2d8af94a.chunk.css.map": "/programmingWithMosh/static/css/main.2d8af94a.chunk.css.map",
+    "static/js/2.5a343eb9.chunk.js.LICENSE.txt": "/programmingWithMosh/static/js/2.5a343eb9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4855b9a.js",
+    "static/js/2.5a343eb9.chunk.js",
+    "static/css/main.2d8af94a.chunk.css",
+    "static/js/main.4f53b73e.chunk.js"
+  ]
+}
