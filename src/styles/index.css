@@ -1,0 +1,50 @@
+#root {
+  font: 18px Sans-serif;
+}
+
+.badge {
+  background-color: #3f72ec;
+  border: 1px solid white;
+  border-radius: 5px;
+  padding: 1px 5px;
+  margin: 8px;
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.badge-warning {
+  background-color: #eecf25;
+  color: black;
+}
+
+button {
+  background-color: #798281;
+  border: 1px solid white;
+  border-radius: 6px;
+  padding: 4px;
+  margin: 1px;
+  color: white;
+  font: 18px sans-serif;
+  font-weight: bold;
+}
+
+button:hover {
+  border: 2px solid silver;
+}
+
+button.delete {
+  background-color: #d93030;
+}
+
+button.reset {
+  background-color: #3f72ec;
+}
+
+.navbar {
+  background-color: silver;
+  padding: 10px;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
